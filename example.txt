@@ -1,1 +1,2 @@
-echo "This is a dummy file."
+"This is a dummy file.
+"Quick fix applied" 
